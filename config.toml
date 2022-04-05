@@ -1,6 +1,6 @@
 baseURL = "https://rodolfobaume.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje de RodolfoBaume"
+title = "Bitácora de Viaje de Rodolfo Baume"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
