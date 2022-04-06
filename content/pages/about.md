@@ -9,13 +9,10 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Me considero el abuelo de este viaje :) ya que al observar a mis compañeros me doy cuenta que son mucho más jovenes, 
+> sin embargo me siento motivado por la gente de Innovaccion para continuar en esta gran travesía.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Soy Rodolfo Baume**, originario de Pachuca, Hidalgo, amante de la tecnología.
+Me considero una persona sociable y accesible.
+Autodidacta y queriendo vencer nuevos retos en mi aprendizaje.
 
