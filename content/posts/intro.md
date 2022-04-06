@@ -21,3 +21,4 @@ La Cultura de un Desarrollad@ de Software se basa en:
 - Dedicación
 - Comunicación
 
+Esto es lo que considero fundamental para la cultura de un desarrollador
