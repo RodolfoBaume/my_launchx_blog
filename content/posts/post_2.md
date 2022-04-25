@@ -1,5 +1,5 @@
 ---
-title: "¿Qué es Node JS? "
+title: "¿Qué es Node JS?"
 date: 2022-04-25
 description: 'Explicación práctica sobre Node'
 ---
